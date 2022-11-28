@@ -1,0 +1,3 @@
+﻿  UnitTest_for_7_2.cpp
+C:\Users\Admin\Desktop\MARICHKA\АП\Laboratorna 7_2\Laboratorna 7_2\Lab 7_2.cpp(30,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  UnitTest_for_7_2.vcxproj -> C:\Users\Admin\Desktop\MARICHKA\АП\Laboratorna 7_2\x64\Debug\UnitTest_for_7_2.dll
